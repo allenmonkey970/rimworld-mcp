@@ -1,0 +1,32 @@
+# --- Python (mcp_server) ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- C# / RimWorld mod build output ---
+# Assemblies/*.dll are committed on purpose: they are the distributable mod.
+MCP/Source/**/obj/
+MCP/Source/**/bin/
+*.pdb
+*.user
+*.suo
+
+# --- IDE ---
+.idea/
+.vs/
+*.iml
+
+# --- Local tool state ---
+.claude/
+**/.claude/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
