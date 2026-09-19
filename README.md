@@ -2,6 +2,10 @@
 
 Let an LLM control a live RimWorld game via the [Model Context Protocol](https://modelcontextprotocol.io/).
 
+## Demo
+
+https://github.com/allenmonkey970/rimworld-mcp/raw/main/demo.mp4
+
 ## How it works
 
 ```
