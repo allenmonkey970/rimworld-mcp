@@ -4,7 +4,7 @@ Let an LLM control a live RimWorld game via the [Model Context Protocol](https:/
 
 ## Demo
 
-https://github.com/allenmonkey970/rimworld-mcp/raw/main/demo.mp4
+<video src="https://github.com/allenmonkey970/rimworld-mcp/raw/main/demo.mp4" controls width="100%"></video>
 
 ## How it works
 
